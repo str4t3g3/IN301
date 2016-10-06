@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int amis(int x, int y) {
+	int i;
+	
+}
+
+int main()
+{	
+
+int a;
+
+// Début du code
+
+
+
+// Fin du code
+
+}
